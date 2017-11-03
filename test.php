@@ -45,4 +45,4 @@ $obj = new Strings('Hello, how r u');
 echo $obj;
 ?>
 
-name qweq eqwe qwe qwe qwe qwe ewq 
+
